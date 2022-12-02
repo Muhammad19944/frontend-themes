@@ -55,3 +55,6 @@
 ### 11-dars. Media Query
 * _Media Query haqida tushuncha (min-width, max-width, ...)_
 * _Amaliy ish_
+
+### 12-dars. Amaliy ish
+* _https://www.figma.com/file/LGMSx4G4yvnyFqIMXibZSJ/Bonfire-Design-Concept?node-id=0%3A1&t=YBY3wTCPRIOjTUDf-0_
