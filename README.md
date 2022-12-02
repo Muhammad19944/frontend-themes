@@ -58,3 +58,7 @@
 
 ### 12-dars. Amaliy ish
 * _https://www.figma.com/file/LGMSx4G4yvnyFqIMXibZSJ/Bonfire-Design-Concept?node-id=0%3A1&t=YBY3wTCPRIOjTUDf-0_
+* _Uyga vazifa uchun_
+* _https://www.figma.com/file/tk20NDnDfA5EguOhru4vdR/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD-Ditanails?node-id=44%3A79&t=FAshLee0sjI2yWzQ-0_
+* _https://www.figma.com/file/kBkroEwmOby0AMLafmJfPK/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0-%D0%BF%D0%BE%D0%B4%D0%B4%D0%BE%D0%BD%D0%BE%D0%B2-%D0%91%2F%D0%A3-%D0%B2-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5-(Copy)-(Copy)-(Copy)?node-id=0%3A1&t=uls4XlysRxlQYbfl-0_
+* _https://www.figma.com/file/VAbL475s6XSv6iIQrUNizn/NewStart?node-id=0%3A1&t=lIWYzThYxlhwFqjV-0_
