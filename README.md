@@ -1,6 +1,6 @@
 # frontend-themes
 
-# 1-modul 😎
+# 1-modul 🥴
 
 *HTML, CSS haqida boshlang’ich tushunchalar va amaliy ishlar.*
 
@@ -61,7 +61,7 @@
 * _Animatiya uchun qo'llaniladigan funksiyalar_
 
 
-# 2-modul
+# 2-modul 🤯
 
 ### 1-dars. Media Query
 * _Media Query haqida tushuncha (min-width, max-width, ...)_
@@ -105,3 +105,9 @@
 * _https://www.figma.com/file/X1zbTEUhbwjXcXlTkr0FQP/StenoPrint-(25.11)-(Copy)?node-id=0%3A1&t=Ku6SYpk6jcljH6xm-0_
 
 ## 8-12-darslar. Amaliy ish (Verstka bo'yicha)
+
+# 3-modul 🤕
+
+# 4-modul 🧐
+
+# 5-modul 💪🤓
