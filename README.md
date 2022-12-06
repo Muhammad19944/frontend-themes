@@ -110,7 +110,35 @@
 
 ## 10-12-darslar. Amaliy ish (Verstka bo'yicha)
 
-# 3-modul 🤕
+# 3-modul (JavaScript)🤕
+
+## 1-dars. JavaScript haqida boshlang'ich tushunchalar
+* _Kirish_
+* _JavaScript-dagi eng muhim narsalar_
+* _console.log nima_
+* _Mantiqiy amallar_
+* _O'zgaruvchilar, ularni e'lon qilish va ular ustida amaliy mashq_
+* _Primitiv tiplar_
+* _Reference type_
+* _Dinamik tipizatsiya_
+
+## 2-dars. Obyektlar bilan ishlash
+* _Obyekt nima_
+* _Yaratish va o'chirish_
+* _Global obyektlar_
+* _Metodlar_
+* _Obyektlarda mutatsiya_
+* _Obyekt mutatsiyalarini bartaraf etish_
+
+## 3-dars. Operatorlar
+* _Shart operatorlari_
+* _Sikl operatorlari_
+* _Qolgan operatorlar_
+
+## 4-dars. Funksiyalar bilan ishlash
+* _Funksiya nima_
+* _Funksiyalarni e'lon qilish va chariqish (Arrow function)_
+* _Lokal va global o’zgaruvchilar_
 
 # 4-modul 🧐
 
