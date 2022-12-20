@@ -50,7 +50,11 @@
 * _Media Query haqida tushuncha (min-width, max-width, ...)_
 * _Amaliy ish_
 
-### 9-12-dars. Amaliy ish (Verstka bo'yicha)
+## 9-dars. Kutubxonlar bilan ishlash
+* _Kutubxona nima va nima uchun kerak_
+* _Kutubxonalarni o'rnatish va dokumentatsiya o'qishni o'rganish_
+
+### 10-12-dars. Amaliy ish (Verstka bo'yicha)
 * _https://www.figma.com/file/LGMSx4G4yvnyFqIMXibZSJ/Bonfire-Design-Concept?node-id=0%3A1&t=YBY3wTCPRIOjTUDf-0_
 * _Uyga vazifa uchun_
 * _https://www.figma.com/file/tk20NDnDfA5EguOhru4vdR/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD-Ditanails?node-id=44%3A79&t=FAshLee0sjI2yWzQ-0_
@@ -123,7 +127,33 @@
 
 ## 5-6-dars. Amaliy ish
 
-## 7-dars.
+## 7-dars. Promise va asinxron funksiyalar
+* _Promise boshlang'ich tushunchalar_
+* _Promise zanjir (chaining)_
+* _Amaliy ish_
+* _fetch funksiya orqali so'rov yuborish_
+* _JSON tushunchasi_
+* _Asinxron funktsiyalari ichida await opertoridan foydalanish_
+* _Async await misollar_
+* _Promise dan asinxron async/await ga o'tish_
+* _Asinxron funksiyalardagi xatolarni qayta ishlash (try/catch)_
+* _Async/await dagi asosiy tamoyillar_
+* _Amaliy ish_
+
+## 8-dars. Module va OOP tushunchalari
+* _Modullar_
+* _Node.js orqali modullarni yaratish va ishga tushirish_
+* _Export usullari_
+* _Amaliy ish_
+* ### OOP tushunchalari
+* _OOP asoslari_
+* _Klasslar va ob'ektlar_
+* _Metodlar_
+* _Prototype va __proto___
+* _Meroslar_
+* _Ob'ektlar va prototiplar_
+
+## 9-12-dars. Amaliy ish
 
 # 4-modul 🧐
 
