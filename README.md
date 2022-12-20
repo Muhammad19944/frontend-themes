@@ -43,7 +43,7 @@
 * _3D obyektlar uchun funksiyalar_
 * _Animatiya haqida boshlang'ich tushuncha_
 * _Animatiya uchun qo'llaniladigan funksiyalar_
-* * _Gradiendlar haqida tushuncha_
+* _Gradiendlar haqida tushuncha_
 * _Amaliy ish_
 
 ### 8-dars. Media Query
@@ -89,24 +89,41 @@
 * _O'zgaruvchilar, ularni e'lon qilish va ular ustida amaliy mashq_
 * _Primitiv tiplar_
 * _Reference type_
+* ### Operatorlar
+* _Shart operatorlari_
+* _Sikl operatorlari_
+* _Qolgan operatorlar_
 
-## 2-dars. Obyektlar bilan ishlash
+## 2-dars. Obyekt va Massiv
+* ### Obyekt
 * _Obyekt nima_
 * _Yaratish va o'chirish_
 * _Global obyektlar_
 * _Metodlar_
 * _Obyektlarda mutatsiya_
 * _Obyekt mutatsiyalarini bartaraf etish_
+* ### Massiv
+* _Massiv nima_
+* _Massiv elementlari bilan ishlash_
+* _Massiv metodlari_
 
-## 3-dars. Operatorlar
-* _Shart operatorlari_
-* _Sikl operatorlari_
-* _Qolgan operatorlar_
-
-## 4-dars. Funksiyalar bilan ishlash
+## 3-dars. Funksiyalar bilan ishlash
 * _Funksiya nima_
 * _Funksiyalarni e'lon qilish va chariqish (Arrow function)_
 * _Lokal va global o’zgaruvchilar_
+* _Hoisting_
+
+## 4-dars. Javascript da DOM elementlari
+* _DOM haqida tushuncha_
+* _Hodisalar bilan ishlash (addEventListener)_
+* _Guruh elementlar uchun hodisa_
+* _Data atributlar bilan ishlash_
+* _Elementlar tuzish, qo’shish, o’chirish va nusxalash (createElement(), appendChild(), insertBefore(), removeChild() ...)_
+* _Hodisalar va DOM manipulyatsiya_
+
+## 5-6-dars. Amaliy ish
+
+## 7-dars.
 
 # 4-modul 🧐
 
