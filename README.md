@@ -157,4 +157,23 @@
 
 # 4-modul 🧐
 
+## 1-dars. Vue haqida tushuncha va birinchi loyihani yaratish
+
+## 2-dars. Reaktivlik va rendering asoslari
+* _Reactive_
+* _Ref_
+* _Template ref_
+* _Computed_
+* _Watch_
+* ### Binding va Render haqida tushuncha
+* _Class va style bindings_
+* _Shart asosida render qilish (v-if)_
+* _Ro'yxat asosida render qilish (v-for)_
+
+## 4-dars. Event va hook bilan ishlash
+* _Class va style bindings_
+* _Two-way bindings_
+* _Lifecycle Hooks_
+
+
 # 5-modul 💪🤓
